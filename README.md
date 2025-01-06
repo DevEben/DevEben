@@ -1,5 +1,5 @@
 # 🌟 Hi there, I'm **Ebenezer Awehome**!  
-🚀 **Software Engineer | Backend Specialist | Creative Technologist**
+🚀 **Software Engineer | Creative Technologist**
 
 Welcome to my digital space! I specialize in building scalable backend systems, intuitive APIs, and visually captivating interfaces. With a blend of technical prowess and creative vision, I bring ideas to life, crafting impactful solutions that deliver both functionality and aesthetic excellence.
 
