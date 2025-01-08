@@ -106,10 +106,22 @@ I bridge the gap between backend efficiency and design creativity, delivering co
 
 ---
 
-## 🏆 **GitHub Stats**
+## 🏆 **GitHub Stats** & 📊 **Most Used Languages**
 
-[![Ebenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevEben&show_icons=true&theme=buefy)](https://github.com/DevEben)
+<div style="display: flex; justify-content: space-between;">
 
-## 📊 **Most Used Languages**
+  <div style="width: 48%;">
+    <p><strong>GitHub Stats</strong></p>
+    <a href="https://github.com/DevEben">
+      <img src="https://github-readme-stats.vercel.app/api?username=DevEben&show_icons=true&theme=buefy" alt="Ebenezer's GitHub Stats"/>
+    </a>
+  </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEben&layout=compact&theme=buefy)](https://github.com/DevEben)
+  <div style="width: 48%;">
+    <p><strong>Most Used Languages</strong></p>
+    <a href="https://github.com/DevEben">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEben&layout=compact&theme=buefy" alt="Most Used Languages"/>
+    </a>
+  </div>
+
+</div>
