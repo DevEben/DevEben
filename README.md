@@ -102,4 +102,14 @@ I’m passionate about building systems that are as functional as they are beaut
 ---
 
 ### ⚡ **Fun Fact**
-I bridge the gap between backend efficiency and design creativity, delivering comprehensive solutions that resonate with both users and stakeholders.  
+I bridge the gap between backend efficiency and design creativity, delivering comprehensive solutions that resonate with both users and stakeholders.
+
+---
+
+## 🏆 **GitHub Stats**
+
+[![Ebenezer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevEben&show_icons=true&theme=buefy)](https://github.com/DevEben)
+
+## 📊 **Most Used Languages**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEben&layout=compact&theme=buefy)](https://github.com/DevEben)
